@@ -274,6 +274,4 @@ This project demonstrates:
 - Model evaluation using accuracy, ROC-AUC, classification reports, and confusion matrices
 - Feature importance interpretation
 
-## Author
 
-Tsz Kit Lin
